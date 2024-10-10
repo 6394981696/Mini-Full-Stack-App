@@ -1,0 +1,22 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "Backend for Mini Full Stack App",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "latest",
+      "mongoose": "latest",
+      "dotenv": "latest",
+      "jsonwebtoken": "latest",
+      "bcryptjs": "latest",
+      "cors": "latest"
+    },
+    "devDependencies": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
